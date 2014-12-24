@@ -1,0 +1,5 @@
+database:
+    driverClass: com.mysql.jdbc.Driver
+    user: user
+    password: password
+    url: database
